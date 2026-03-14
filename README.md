@@ -26,7 +26,7 @@ trading_bot
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/trading_bot.git
+git clone 
 cd trading_bot
 
 2. Create a virtual environment
